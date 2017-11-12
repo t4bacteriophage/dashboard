@@ -1,7 +1,11 @@
 <template>
   <v-layout>
     <v-card contextual-style="dark">
-       <div slot="body">Hello, world! </div>
+      <div slot="body">Hello, world! 
+        <ul>
+          <li><a href="http://www.themostamazingwebsiteontheinternet.com/" target="_blank">The most amazing website on the internet.</a></li>
+        </ul>
+      </div>
     </v-card>
   </v-layout>
 </template>
